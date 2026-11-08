@@ -1,0 +1,33 @@
+
+[
+  {
+    "name": "Oscar Newman",
+    "birthdate": "1927-01-19",
+    "sex": "M",
+    "blood_group": "B+"
+  },
+  {
+    "name": "Jeremy Wilson",
+    "birthdate": "1996-10-12",
+    "sex": "M",
+    "blood_group": "A-"
+  },
+  {
+    "name": "Kenneth Rhodes",
+    "birthdate": "2003-06-15",
+    "sex": "M",
+    "blood_group": "A-"
+  },
+  {
+    "name": "Nicole Richardson",
+    "birthdate": "2003-09-07",
+    "sex": "F",
+    "blood_group": "AB+"
+  },
+  {
+    "name": "Gary Gamble",
+    "birthdate": "1968-08-19",
+    "sex": "M",
+    "blood_group": "A+"
+  }
+]
