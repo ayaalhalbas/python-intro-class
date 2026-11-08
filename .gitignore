@@ -1,0 +1,8 @@
+
+secure_output/
+*.key
+*.fernet
+__pycache__/
+*.pyc
+.env
+.venv/
